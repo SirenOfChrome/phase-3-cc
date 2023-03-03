@@ -29,9 +29,10 @@ in a suggested order, but you can feel free to tackle the ones you think are
 easiest. Be careful: some of the later methods rely on earlier ones.
 
 **Remember!** This code challenge does not have tests. You cannot run `pytest`.
-You'll need to create your own sample instances so that you can try out your
+You'll need to create your own sample instances so that you can try out your         
 code on your own. Make sure your relationships and methods work in the console
 before submitting.
+
 
 We've provided you with a tool that you can use to test your code. To use it,
 run `python debug.py` from the command line. This will start a `ipdb` session
